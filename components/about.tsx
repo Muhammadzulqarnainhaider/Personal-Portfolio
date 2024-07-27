@@ -19,22 +19,9 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-       I have complete my 12th year of Education{" "}
-        <span className="font-medium">F.sc Pre-medical</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">Front-End</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is
-        making the Ux/Ui designing I <span className="underline">love</span> the
-        feeling of finally Making the Front-end. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, and Framer motion
-        </span>
-        . I am also familiar with TypeScript and Python. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">Front-end  position</span> as a Front-End 
-        developer.
-      </p>
+  After completing my higher secondary education in <span className="font-medium">F.Sc Pre-medical</span>, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and specialized in <span className="font-medium">Front-End Development</span>. <span className="italic">My favorite part of programming</span> is designing user experiences (UX) and user interfaces (UI). I <span className="underline">love</span> the satisfaction of bringing the front-end to life. My core stack includes <span className="font-medium">React, Next.js, and Framer Motion</span>. I am also familiar with TypeScript, Python, Docker, FastAPI, Kubernetes, PostgreSQL, and Kafka. Always eager to learn new technologies, I am currently exploring large language models (LLMs) and how to work with them. I am seeking a <span className="font-medium">Front-End Developer</span> position.
+</p>
+
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing

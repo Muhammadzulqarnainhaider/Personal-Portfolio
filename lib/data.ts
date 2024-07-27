@@ -32,44 +32,85 @@ export const links = [
     hash: "#contact",
   },
 ] as const;
-
 export const experiencesData = [
   {
-    title: "6 months  bootcamp",
-    location: "Islamabad, Pakstsn",
+    title: "6-Month Bootcamp Graduate",
+    location: "Islamabad, Pakistan",
     description:
-      "I graduated after 6 months of studying. now I am working remotely as a  front-end developer.",
+      "Completed an intensive 6-month bootcamp in Islamabad, where I honed my skills in front-end and back-end development. I'm committed to becoming a top 1% developer.",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Front-End Developer Intern",
+    location: "Remote",
     description:
-      "I worked as a front-end developer for  2 months 1 job . I am also learning to become full stack.",
+      "Gained practical experience as a front-end developer for 2 months. Focused on enhancing my skills in HTML, CSS, JavaScript, and Tailwind CSS while starting to explore full-stack development.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2024",
+    date: "2023",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Islamabad,Pakistan",
+    title: "Freelance Full-Stack Developer",
+    location: "Islamabad, Pakistan",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript and  Tailwind . I'm open to full-time opportunities.",
+      "Currently working as a full-stack developer freelancer, specializing in React, Next.js, TypeScript, and Tailwind CSS. Open to full-time opportunities to further advance my career.",
     icon: React.createElement(FaReact),
-    date: "2024 - present",
+    date: "2024 - Present",
+  },
+  {
+    title: "BS Computer Science Student",
+    location: "Virtual University of Pakistan",
+    description:
+      "Enrolled in the BS Computer Science program, starting in September 2024. Aiming to gain comprehensive knowledge in computer science and explore AI applications.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2024 - 2028",
+  },
+  {
+    title: "Volunteer AI Researcher",
+    location: "Remote",
+    description:
+      "Participating in volunteer research projects to gain hands-on experience in AI. Focused on solving complex problems and contributing to innovative solutions.",
+    icon: React.createElement(FaReact),
+    date: "2024 - Present",
+  },
+  {
+    title: "Part-Time Worker",
+    location: "Taxila, Pakistan",
+    description:
+      "Balancing studies with part-time work to support myself financially without relying on my parents. This experience has taught me time management, responsibility, and the ability to juggle multiple tasks efficiently.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Ongoing",
+  },
+  {
+    title: "Competitive Programmer",
+    location: "Remote",
+    description:
+      "Actively practicing and improving problem-solving skills through competitive programming challenges. Enhancing my proficiency in algorithms and data structures.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Ongoing",
+  },
+  {
+    title: "Beginner in DevOps and Back-End Technologies",
+    location: "Remote",
+    description:
+      "Learning and applying beginner skills in Docker, FastAPI, Kubernetes, PostgreSQL, and Kafka. Focused on developing a strong foundation in DevOps and back-end technologies to support full-stack development.",
+    icon: React.createElement(FaReact),
+    date: "Ongoing",
   },
 ] as const;
 
+
+
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "First project",
     description:
-      "This is my first front-End project  . Users can give public feedback to companies.",
+      "This is my first front-End project.",
     tags: ["React", "Next.js", "Drizzle ORM", "Tailwind"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "UX/UI",
     description:
       "Currently i am learning UX/UI designing .",
     tags: ["UX Design" , "UI Design" , "Figma"],
@@ -91,11 +132,12 @@ export const skillsData = [
   "TypeScript",
   "React",
   "Next.js",
- 
+
   "Git",
   "Tailwind",
-  "Prisma",
-  "Redux",
-   "Python",
  "Framer Motion",
+ "Python",
+ "Docker",
+ "Kubernetes" , 
+ "Fastapi"
 ] as const;
