@@ -107,9 +107,6 @@ export const skillsData = [
 
   "Git",
   "Tailwind",
- "Framer Motion",
- "Python",
- "Docker",
- "Kubernetes" , 
+ "Python", 
  "Fastapi"
 ] as const;
