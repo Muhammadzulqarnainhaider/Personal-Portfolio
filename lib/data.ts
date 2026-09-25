@@ -33,70 +33,42 @@ export const links = [
   },
 ] as const;
 export const experiencesData = [
-  {
-    title: "6-Month Bootcamp Graduate",
-    location: "Islamabad, Pakistan",
-    description:
-      "Completed an intensive 6-month bootcamp in Islamabad, where I honed my skills in front-end and back-end development. I'm committed to becoming a top 1% developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2023",
-  },
-  {
-    title: "Front-End Developer Intern",
-    location: "Remote",
-    description:
-      "Gained practical experience as a front-end developer for 2 months. Focused on enhancing my skills in HTML, CSS, JavaScript, and Tailwind CSS while starting to explore full-stack development.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2023",
-  },
-  {
-    title: "Freelance Full-Stack Developer",
-    location: "Islamabad, Pakistan",
-    description:
-      "Currently working as a full-stack developer freelancer, specializing in React, Next.js, TypeScript, and Tailwind CSS. Open to full-time opportunities to further advance my career.",
-    icon: React.createElement(FaReact),
-    date: "2024 - Present",
-  },
-  {
-    title: "BS Computer Science Student",
-    location: "Virtual University of Pakistan",
-    description:
-      "Enrolled in the BS Computer Science program, starting in September 2024. Aiming to gain comprehensive knowledge in computer science and explore AI applications.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2024 - 2028",
-  },
-  {
-    title: "Volunteer AI Researcher",
-    location: "Remote",
-    description:
-      "Participating in volunteer research projects to gain hands-on experience in AI. Focused on solving complex problems and contributing to innovative solutions.",
-    icon: React.createElement(FaReact),
-    date: "2024 - Present",
-  },
-  {
-    title: "Part-Time Worker",
-    location: "Taxila, Pakistan",
-    description:
-      "Balancing studies with part-time work to support myself financially without relying on my parents. This experience has taught me time management, responsibility, and the ability to juggle multiple tasks efficiently.",
-    icon: React.createElement(CgWorkAlt),
-    date: "Ongoing",
-  },
-  {
-    title: "Competitive Programmer",
-    location: "Remote",
-    description:
-      "Actively practicing and improving problem-solving skills through competitive programming challenges. Enhancing my proficiency in algorithms and data structures.",
-    icon: React.createElement(CgWorkAlt),
-    date: "Ongoing",
-  },
-  {
-    title: "Beginner in DevOps and Back-End Technologies",
-    location: "Remote",
-    description:
-      "Learning and applying beginner skills in Docker, FastAPI, Kubernetes, PostgreSQL, and Kafka. Focused on developing a strong foundation in DevOps and back-end technologies to support full-stack development.",
-    icon: React.createElement(FaReact),
-    date: "Ongoing",
-  },
+{
+  title: "Coding Bootcamp Graduate",
+  location: "Islamabad, Pakistan",
+  description:
+    "Completed a 6-month coding bootcamp at Panaversity, learning the fundamentals of web development (HTML, CSS, JavaScript) along with an introduction to React/Next.js and Git.",
+  icon: React.createElement(LuGraduationCap),
+  date: "2023",
+},
+{
+  title: "German Language Learner",
+  location: "Islamabad, Pakistan",
+  description:
+    "Learning German since 2025 to pursue an Ausbildung in Germany — Goethe-Zertifikat B1 passed, B2 in progress, aiming for C1 by early 2027.",
+  icon: React.createElement(LuGraduationCap),
+  date: "2025 - Present",
+},
+{
+  title: "Sales Assistant",
+  location: "Taxila, Pakistan",
+  description:
+    "Worked in a grocery store handling customer service, sales, product display, and cash register operations.",
+  icon: React.createElement(CgWorkAlt),
+  date: "03/2025 - 05/2025",
+},
+{
+  title: "Family Business Support",
+  location: "Taxila, Pakistan",
+  description:
+    "Supported commercial and organizational tasks in the family business.",
+  icon: React.createElement(CgWorkAlt),
+  date: "2023 - 03/2025",
+},
+ 
+  
+ 
+
 ] as const;
 
 
