@@ -42,30 +42,13 @@ export const experiencesData = [
   date: "2023",
 },
 {
-  title: "German Language Learner",
+  title: "German Language Learner (Self-Study)",
   location: "Islamabad, Pakistan",
   description:
-    "Learning German since 2025 to pursue an Ausbildung in Germany — Goethe-Zertifikat B1 passed, B2 in progress, aiming for C1 by early 2027.",
+    "Learning German independently since January 2025 to pursue a structured Ausbildung in Germany — Goethe-Zertifikat B1 passed, B2 in progress, aiming for C1 by early 2027.",
   icon: React.createElement(LuGraduationCap),
-  date: "2025 - Present",
+  date: "01/2025 - Present",
 },
-{
-  title: "Sales Assistant",
-  location: "Taxila, Pakistan",
-  description:
-    "Worked in a grocery store handling customer service, sales, product display, and cash register operations.",
-  icon: React.createElement(CgWorkAlt),
-  date: "03/2025 - 05/2025",
-},
-{
-  title: "Family Business Support",
-  location: "Taxila, Pakistan",
-  description:
-    "Supported commercial and organizational tasks in the family business.",
-  icon: React.createElement(CgWorkAlt),
-  date: "2023 - 03/2025",
-},
- 
   
  
 
